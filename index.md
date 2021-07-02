@@ -15,3 +15,7 @@ In [this](files/hw2.html) project, I made use of a data set collected from the D
 ## Homework 3 (June 6)
 
 In [this](files/hw3.html) project, I used an hourly data set that contains the electricity consumption data of Turkey to analyze its trend and seasonality properties and build AR and MA models.
+
+## Term Project (July 2)
+
+In [this](files/FinalProjectReport.html) project, we built forecasting models to predict the sales of 9 products of Trendyol.
