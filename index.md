@@ -19,3 +19,7 @@ In [this](files/hw3.html) project, I used an hourly data set that contains the e
 ## Term Project (July 2)
 
 In [this](files/FinalProjectReport.html) project, we built forecasting models to predict the sales of 9 products of Trendyol.
+
+## Homework 4&5 (July 3)
+
+In [this](files/HW4-5.html) project, we analyzed the properties of 9 products of Trendyol and built ARIMAX models for them.
